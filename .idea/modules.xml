@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_Struts_Hibernate.iml" filepath="$PROJECT_DIR$/Spring_Struts_Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh_admin/ssh_admin.iml" filepath="$PROJECT_DIR$/ssh_admin/ssh_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh_api/ssh_api.iml" filepath="$PROJECT_DIR$/ssh_api/ssh_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh_common/ssh_common.iml" filepath="$PROJECT_DIR$/ssh_common/ssh_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh_data/ssh_data.iml" filepath="$PROJECT_DIR$/ssh_data/ssh_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh_web/ssh_web.iml" filepath="$PROJECT_DIR$/ssh_web/ssh_web.iml" />
+    </modules>
+  </component>
+</project>

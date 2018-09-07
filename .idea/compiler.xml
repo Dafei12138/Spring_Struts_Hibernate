@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssh_admin" />
+        <module name="ssh_api" />
+        <module name="ssh_common" />
+        <module name="ssh_data" />
+        <module name="ssh_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_Struts_Hibernate" target="1.5" />
+      <module name="ssh_admin" target="1.7" />
+      <module name="ssh_api" target="1.5" />
+      <module name="ssh_common" target="1.5" />
+      <module name="ssh_data" target="1.5" />
+      <module name="ssh_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
