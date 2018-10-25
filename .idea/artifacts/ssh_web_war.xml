@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ssh_web:war">
     <output-path>$PROJECT_DIR$/ssh_web/target</output-path>
-    <root id="archive" name="ssh_web.war">
+    <root id="archive" name="ssh_web-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="ssh_web:war exploded" />
     </root>
   </artifact>
