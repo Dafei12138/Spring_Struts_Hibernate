@@ -64,4 +64,13 @@ public class BookAction extends ActionSupport {
     public void setBookList(List<Book> bookList) {
         this.bookList = bookList;
     }
+
+    @Override
+    public void validate() {
+
+        if(title == null || "".equals(title.trim())) {
+            this.addFieldError("title", "商品名称不能为空");
+        }
+
+    }
 }
